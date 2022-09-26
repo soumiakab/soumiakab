@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently a java software engineer
 
 - 👯 I’m looking to collaborate on Java/Php/C#
 
